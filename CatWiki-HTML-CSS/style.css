@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.navbar {
+  height: 60px;
+  background-color: black;
+  background-size: contain;
+
+
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-right: 200px;
+  font-size: large;
+}
+
+button {
+  background-color: #f08804;
+}
+
+body {
+  background-image: url(./cat.png.jpg);
+  backface-visibility: visible;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  right: 0px;
+
+}
+
+h2 {
+  text-align: center;
+  color: #f08804;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  border-radius: 16%;
+}
+
+li {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  list-style-type: none;
+
+}
+
+div {
+  display: inline-block;
+
+}
